@@ -30,6 +30,6 @@
 (define files (list "common.scm"
                     "mtp.scm"
                     "m2pa.scm"
-                    "m2pa-tests.scm"
-                    "m2pa-param-testtool.scm"))
+                    "m2pa-param-testtool.scm"
+                    "m2pa-tests.scm"))
 (map (lambda (file) (load-from-path (string-append dir file))) files)
