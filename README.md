@@ -1,4 +1,4 @@
-# M2PA Testtool
+# M2PA Testtool and Testsuite
 A test tool for M2PA as specified in [RFC 4165](https://tools.ietf.org/html/rfc4165).
 The tests are based on the ETSI test specification
 [ETSI TS 101 591](http://www.etsi.org/deliver/etsi_ts/101500_101599/101591/01.01.01_60/ts_101591v010101p.pdf).
